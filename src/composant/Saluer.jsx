@@ -7,6 +7,7 @@ function Saluer() {
   return (
     <div className='salut'>
       <h1>{t('greeting')}</h1>
+      <hr />
       <p>
         {t('text')}
       </p>
