@@ -8,6 +8,8 @@ function Saluer() {
     <div className='salut'>
       <h1>{t('greeting')}</h1>
       <hr />
+      <br/>
+      
       <p>
         {t('text')}
       </p>
