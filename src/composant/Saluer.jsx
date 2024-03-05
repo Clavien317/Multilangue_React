@@ -9,6 +9,7 @@ function Saluer() {
       <h1>{t('greeting')}</h1>
       <hr />
       <br/>
+      <h6>Translate 0.1 :) </h6>
       
       <p>
         {t('text')}
